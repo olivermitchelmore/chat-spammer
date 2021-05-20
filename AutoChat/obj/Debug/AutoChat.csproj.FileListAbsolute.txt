@@ -1,0 +1,15 @@
+C:\Users\Ollie\source\repos\AutoChat\AutoChat\bin\Debug\AutoChat.exe.config
+C:\Users\Ollie\source\repos\AutoChat\AutoChat\bin\Debug\AutoChat.exe
+C:\Users\Ollie\source\repos\AutoChat\AutoChat\bin\Debug\AutoChat.pdb
+C:\Users\Ollie\source\repos\AutoChat\AutoChat\obj\Debug\AutoChat.csprojAssemblyReference.cache
+C:\Users\Ollie\source\repos\AutoChat\AutoChat\obj\Debug\MainWindow.g.cs
+C:\Users\Ollie\source\repos\AutoChat\AutoChat\obj\Debug\App.g.cs
+C:\Users\Ollie\source\repos\AutoChat\AutoChat\obj\Debug\AutoChat_MarkupCompile.cache
+C:\Users\Ollie\source\repos\AutoChat\AutoChat\obj\Debug\AutoChat_MarkupCompile.lref
+C:\Users\Ollie\source\repos\AutoChat\AutoChat\obj\Debug\MainWindow.baml
+C:\Users\Ollie\source\repos\AutoChat\AutoChat\obj\Debug\AutoChat.g.resources
+C:\Users\Ollie\source\repos\AutoChat\AutoChat\obj\Debug\AutoChat.Properties.Resources.resources
+C:\Users\Ollie\source\repos\AutoChat\AutoChat\obj\Debug\AutoChat.csproj.GenerateResource.cache
+C:\Users\Ollie\source\repos\AutoChat\AutoChat\obj\Debug\AutoChat.csproj.CoreCompileInputs.cache
+C:\Users\Ollie\source\repos\AutoChat\AutoChat\obj\Debug\AutoChat.exe
+C:\Users\Ollie\source\repos\AutoChat\AutoChat\obj\Debug\AutoChat.pdb
